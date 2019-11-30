@@ -1,0 +1,2 @@
+# discordBot
+ With cogs : autoloader
