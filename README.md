@@ -4,7 +4,9 @@
 ### Prerequisites
 
 To use it, you only need [Python 3.7](https://www.python.org/)
-
+And install somes packages with pip :
+ * discord
+ * asyncio
 
 ### Installing and using
 
