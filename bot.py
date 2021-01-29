@@ -4,7 +4,6 @@ from discord.ext import commands
 from inc import STATICS
 from discord.ext.commands import CommandNotFound
 
-# My super commentary
 __author__ = "Takuma"
 __version__ = "1.0"
 
@@ -40,7 +39,5 @@ async def on_command_error(ctx, error):
     if isinstance(error, CommandNotFound):
         return
     raise error
-    print("mange tes morts")
-
 # Launch bot
 client.run(STATICS.TOKEN)
