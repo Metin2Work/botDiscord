@@ -39,6 +39,7 @@ async def on_command_error(ctx, error):
     if isinstance(error, CommandNotFound):
         return
     raise error
+    print("mange tes morts")
 
 # Launch bot
 client.run(STATICS.TOKEN)
