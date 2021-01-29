@@ -4,6 +4,7 @@ from discord.ext import commands
 from inc import STATICS
 from discord.ext.commands import CommandNotFound
 
+# My super commentary
 __author__ = "Takuma"
 __version__ = "1.0"
 
