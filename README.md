@@ -24,7 +24,7 @@ USE "PAUSE" for the keep open the terminal.
 
 ## Authors
 
-* Takuma - [Metin2Work](https://github.com/devTakuma)
+* Takuma - [GitHub](https://github.com/devTakuma), [Mail](mailto:work.takuma@gmail.com)
 
 ## License
 
