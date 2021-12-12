@@ -24,7 +24,7 @@ USE "PAUSE" for the keep open the terminal.
 
 ## Authors
 
-* Takuma - [GitHub](https://github.com/devTakuma), [Mail](mailto:work.takuma@gmail.com)
+* Takuma - [GitHub](https://github.com/nicolasCDT), [Mail](mailto:work.takuma@gmail.com)
 
 ## License
 
